@@ -1,0 +1,7 @@
+Sensl
+HV1=31.71V
+HV1_adjust=60
+
+DIF: 11054-00 4 (I)
+CALIB: 10109-00 4
+POWER: 11070-00 2 (I)

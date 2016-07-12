@@ -1,0 +1,8 @@
+Hamamatsu
+HV1=60.49V
+HV1_adjust=46
+
+DIF: 11054-01 11 (9)
+CALIB: 383035 1
+POWER: 11070-01 5 (8)
+
