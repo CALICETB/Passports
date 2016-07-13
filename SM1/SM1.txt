@@ -12,3 +12,6 @@ PA:
 ChipID : 241 242 243 244
 
 LED Range:
+
+Holdscan :
+100 fF: 14 (binary)
