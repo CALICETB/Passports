@@ -7,11 +7,14 @@ CALIB: 383035 1
 POWER: 11070-01 5 (8)
 
 IDAC: 58
-PA: 
+PA: 650fF
 
 ChipID : 241 242 243 244
 
-LED Range:
+LED Range: 5000 - 6000 mV (100 fF)
 
 Holdscan :
 100 fF: 14 (binary)
+650 fF: 10 (binary)
+
+Additional Information:
