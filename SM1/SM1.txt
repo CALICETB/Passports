@@ -11,7 +11,9 @@ PA: 650fF
 
 ChipID : 241 242 243 244
 
-LED Range: 5000 - 6000 mV (100 fF)
+LED Range: 
+5000 - 6000 mV (100 fF) by 50 mV steps
+4800 - 6200 mV (650 fF) by 50 mV steps
 
 Holdscan :
 100 fF: 14 (binary)
