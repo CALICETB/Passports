@@ -13,7 +13,11 @@ ChipID : 241 242 243 244
 
 LED Range: 
 5000 - 6000 mV (100 fF) by 50 mV steps
-4800 - 6200 mV (650 fF) by 50 mV steps
+4800 - 6900 mV (650 fF) by 50 mV steps
+
+Gain:
+100 fF : 40.90 +/- 1.19 ADC/px (117 channels fitted)
+650 fF : 12.78 +/- 0.74 ADC/px (143 channels fitted)
 
 Holdscan :
 100 fF: 14 (binary)
