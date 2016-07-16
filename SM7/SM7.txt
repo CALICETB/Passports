@@ -5,3 +5,22 @@ HV1_adjust=48
 DIF: 11054-01 24 (7)
 CALIB: 383035 5
 POWER: 11070-01 8 (6)
+
+IDAC: 58
+PA: 650fF
+
+ChipID : 249 250 251 252
+
+LED Range: 
+5000 - 6800 mV (650 fF) by 50 mV steps
+
+Gain:
+650 fF :  ADC/px (143 channels fitted)
+
+Holdscan :
+650 fF: 10 (binary)
+
+Threshold : assuming LY of 30 px/MIP and Gain of 13 ADC/px
+
+
+Additional Information:
