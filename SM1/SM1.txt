@@ -24,9 +24,9 @@ Holdscan :
 650 fF: 10 (binary)
 
 Threshold : assuming LY of 30 px/MIP and Gain of 13 ADC/px
-Chip: 0 0.25MIP DAC threshold = 236.577 +/- 18.7066
-Chip: 1 0.25MIP DAC threshold = 206.893 +/- 27.5538
-Chip: 2 0.25MIP DAC threshold = 226.422 +/- 3.46826
-Chip: 3 0.25MIP DAC threshold = 208.851 +/- 69.9336
+Chip: 0 0.25MIP DAC threshold = 258.801 +/- 9.90776
+Chip: 1 0.25MIP DAC threshold = 250.892 +/- 27.1405
+Chip: 2 0.25MIP DAC threshold = 256.047 +/- 19.7332
+Chip: 3 0.25MIP DAC threshold = 260.422 +/- 10.209
 
 Additional Information:
