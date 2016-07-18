@@ -15,7 +15,7 @@ LED Range:
 5000 - 6800 mV (650 fF) by 50 mV steps
 
 Gain:
-650 fF :  ADC/px ( channels fitted)
+650 fF : 12.45 +/- 0.77 ADC/px (144 channels fitted)
 
 Holdscan :
 650 fF: 10 (binary)
