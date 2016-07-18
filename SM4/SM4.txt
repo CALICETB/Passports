@@ -9,7 +9,7 @@ POWER: 11070-01 15 (7)
 IDAC: 58
 PA: 650fF
 
-ChipID : 197 198 199 200
+ChipID : 121 122 123 124
 
 LED Range: 
 5000 - 6800 mV (650 fF) by 50 mV steps
