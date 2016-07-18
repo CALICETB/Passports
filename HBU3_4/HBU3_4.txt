@@ -9,7 +9,7 @@ POWER: 11070-01 24 (10)
 IDAC: 58
 PA: 
 
-ChipID : 
+ChipID : 205 206 207 208
 
 LED Range: 
 
