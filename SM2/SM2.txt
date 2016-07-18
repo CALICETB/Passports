@@ -6,3 +6,27 @@ DIF: 11054-01 22 (6)
 CALIB: 10109-00 6
 POWER: 11070-01 10 (5)
 
+IDAC: 58
+PA: 650fF
+
+ChipID : 245 246 247 248
+
+LED Range: 
+5000 - 6000 mV (100 fF) by 50 mV steps
+5000 - 6800 mV (650 fF) by 50 mV steps
+
+Gain:
+100 fF : 43.44 +/- 2.21 ADC/px (120 channels fitted)
+650 fF : 13.42 +/- 0.85 ADC/px (143 channels fitted)
+
+Holdscan :
+100 fF: 14 (binary)
+650 fF: 10 (binary)
+
+Threshold : assuming LY of 30 px/MIP and Gain of 13 ADC/px
+Chip: 0 0.25MIP DAC threshold = 
+Chip: 1 0.25MIP DAC threshold = 
+Chip: 2 0.25MIP DAC threshold = 
+Chip: 3 0.25MIP DAC threshold = 
+
+Additional Information:
