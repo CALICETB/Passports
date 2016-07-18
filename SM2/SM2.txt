@@ -30,3 +30,8 @@ Chip: 2 0.25MIP DAC threshold = 273.27 +/- 10.40
 Chip: 3 0.25MIP DAC threshold = 253.259 +/- 17.80
 
 Additional Information:
+
+Chip 246 Chn 1 has a deviation of over 3 sigma (3.20248) from the Mean /  Gain 10.8383 Mean 13.4673 ratio 0.804784
+PA needed 525 would give a gain of 12.7527
+Chip 247 Chn 12 has a deviation of over 3 sigma (4.20025) from the Mean /  Gain 10.0192 Mean 13.4673 ratio 0.743962
+PA needed 475 would give a gain of 12.6851
