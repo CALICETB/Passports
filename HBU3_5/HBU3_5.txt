@@ -9,7 +9,7 @@ POWER: 11070-00 3 (IV)
 IDAC: 58
 PA: 
 
-ChipID : 
+ChipID : 221 222 223 224
 
 LED Range: 
 
