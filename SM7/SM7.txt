@@ -15,12 +15,15 @@ LED Range:
 5000 - 6800 mV (650 fF) by 50 mV steps
 
 Gain:
-650 fF :  ADC/px (143 channels fitted)
+650 fF : 13.38 +/- 0.85 ADC/px (144 channels fitted)
 
 Holdscan :
 650 fF: 10 (binary)
 
 Threshold : assuming LY of 30 px/MIP and Gain of 13 ADC/px
-
+Chip: 0 0.25MIP DAC threshold = 271.944 +/- 13.3966
+Chip: 1 0.25MIP DAC threshold = 264.805 +/- 20.4213
+Chip: 2 0.25MIP DAC threshold = 274.358 +/- 19.5964
+Chip: 3 0.25MIP DAC threshold = 275.453 +/- 6.952
 
 Additional Information:
