@@ -5,3 +5,22 @@ HV1_adjust=58
 DIF: 11054-00 3 (III)
 CALIB: 10109-00 15
 POWER: 11070-00 3 (IV)
+
+IDAC: 58
+PA: 
+
+ChipID : 
+
+LED Range: 
+
+Gain:
+
+Holdscan :
+
+Threshold : assuming LY of 14 px/MIP and Gain of 20 ADC/px
+Chip: 0 0.25MIP DAC threshold = 
+Chip: 1 0.25MIP DAC threshold = 
+Chip: 2 0.25MIP DAC threshold = 
+Chip: 3 0.25MIP DAC threshold = 
+
+Additional Information:
