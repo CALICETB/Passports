@@ -5,3 +5,25 @@ HV1_adjust=48
 DIF: 11054-00 5 (V)
 CALIB: 383035 6
 POWER: 11070-00 1 (II)
+
+IDAC: 58
+PA: 650fF
+
+ChipID : 237 238 239 240
+
+LED Range: 
+5000 - 6800 mV (650 fF) by 50 mV steps
+
+Gain:
+650 fF :  ADC/px ( channels fitted)
+
+Holdscan :
+650 fF: 10 (binary)
+
+Threshold : assuming LY of 30 px/MIP and Gain of 13 ADC/px
+Chip: 0 0.25MIP DAC threshold = 
+Chip: 1 0.25MIP DAC threshold = 
+Chip: 2 0.25MIP DAC threshold = 
+Chip: 3 0.25MIP DAC threshold = 
+
+Additional Information:
