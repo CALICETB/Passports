@@ -21,12 +21,13 @@ Holdscan :
 650 fF: 10 (binary)
 
 Threshold : assuming LY of 30 px/MIP and Gain of 13 ADC/px
-Chip: 0 0.25MIP DAC threshold = 
-Chip: 1 0.25MIP DAC threshold = 
-Chip: 2 0.25MIP DAC threshold = 
-Chip: 3 0.25MIP DAC threshold = 
+Chip: 0 0.25MIP DAC threshold = 313.804 +/- 0
+Chip: 1 0.25MIP DAC threshold = 266.017 +/- 34.5218
+Chip: 2 0.25MIP DAC threshold = 301.581 +/- 10.8143
+Chip: 3 0.25MIP DAC threshold = 277.4   +/- 9.45052
 
 Additional Information:
 
 Chip 238 Chn 35 has a deviation of over 3 sigma (4.01039) from the Mean /  Gain 16.6732 Mean 13.6124 ratio 1.22486
 PA needed 800 would give a gain of 14.1282
+
