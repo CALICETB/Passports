@@ -7,20 +7,25 @@ CALIB: 10109-00 4
 POWER: 11070-00 2 (I)
 
 IDAC: 58
-PA: 
+PA: 300 fF
 
 ChipID : 217 218 219 220
 
 LED Range: 
+3800 mV - 6200 mV (300 fF) 50 mV steps
 
 Gain:
+27.33 +/- 3.26 ADC/px (143 channels fitted)
 
-Holdscan :
+Holdscan : 
+24 (binary)
 
-Threshold : assuming LY of 14 px/MIP and Gain of 20 ADC/px
-Chip: 0 0.25MIP DAC threshold = 
-Chip: 1 0.25MIP DAC threshold = 
-Chip: 2 0.25MIP DAC threshold = 
-Chip: 3 0.25MIP DAC threshold = 
+Threshold : assuming LY of 13 px/MIP and Gain of 25 ADC/px
+Chip: 0 0.25MIP DAC threshold = 228.102 +/- 7.67872
+Chip: 1 0.25MIP DAC threshold = 224.929 +/- 13.0895
+Chip: 2 0.25MIP DAC threshold = 213.495 +/- 16.8124
+Chip: 3 0.25MIP DAC threshold = 200.148 +/- 23.5447
+
 
 Additional Information:
+The missing channel is chip 217 chn 35.
