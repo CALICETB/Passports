@@ -16,6 +16,7 @@ LED Range:
 Gain:
 
 Holdscan :
+14 (binary) (250 fF)
 
 Threshold : assuming LY of 14 px/MIP and Gain of 20 ADC/px
 Chip: 0 0.25MIP DAC threshold = 
