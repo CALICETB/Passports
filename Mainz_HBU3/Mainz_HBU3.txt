@@ -6,19 +6,19 @@ DIF: 11054-01 10 (16)
 CALIB: 383035 18
 POWER: 11070-01 7 (15)
 
-IDAC: 
-PA: fF
+IDAC: 15
+PA: chip 233 200 fF, chip 234 225 fF, chip 235 175 fF, chip 236 225 fF
 
 ChipID : 233 234 235 236
 
 LED Range: 
-3700 -  mV ( fF) by  mV steps
+3700 -  4300 mV by 50 mV steps
 
 Gain:
  fF : ADC/px ( channels fitted)
 
 Holdscan :
- (binary)
+14 (binary)
 
 Threshold : assuming LY of  px/MIP and Gain of 21 ADC/px
 Chip: 0 0.25MIP DAC threshold = 
