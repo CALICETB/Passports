@@ -15,7 +15,7 @@ LED Range:
 3700 -  4300 mV by 50 mV steps
 
 Gain:
- fF : ADC/px ( channels fitted)
+20.77 +/- 0.81 ADC/px (143 channels fitted)
 
 Holdscan :
 14 (binary)
@@ -28,3 +28,11 @@ Chip: 3 0.25MIP DAC threshold =
 
 
 Additional Information:
+Chip 234 Chn 0 has a deviation of over 3 sigma (3.56683) from the Mean /  Gain 23.6918 Mean 20.7721 ratio 1.14056
+PA needed 750 would give a gain of 21.1517
+Chip 234 Chn 5 has a deviation of over 3 sigma (3.8407) from the Mean /  Gain 17.6282 Mean 20.7721 ratio 0.848648
+missing channels: chip 235 chn 5
+
+chip 234 chn 0: fitting faild LED V larger than 4000 mV.  fitting looks O.K at 3900 mV and 3950 mV 
+chip 234 chn 5: fitting faild LED V larger than 4100 mV.  fitting looks O.K at 4000 mV and 4050 mV 
+chip 235 chn 5: light yield is not enough, but pedestal position is 30 ADC count at 4300 mV 
