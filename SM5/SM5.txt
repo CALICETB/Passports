@@ -21,10 +21,11 @@ Holdscan :
 650 fF: 10 (binary)
 
 Threshold : assuming LY of 30 px/MIP and Gain of 13 ADC/px
-Chip: 0 0.25MIP DAC threshold = 
-Chip: 1 0.25MIP DAC threshold = 
-Chip: 2 0.25MIP DAC threshold = 
-Chip: 3 0.25MIP DAC threshold = 
+Chip: 0 0.25MIP DAC threshold = 259.005 +/- 21.6026
+Chip: 1 0.25MIP DAC threshold = 258.74  +/- 15.4566
+Chip: 2 0.25MIP DAC threshold = 269.833 +/- 19.165
+Chip: 3 0.25MIP DAC threshold = 280.879 +/- 28.2775
+
 
 Additional Information:
 Chip 120 Chn 24 has a deviation of over 3 sigma (3.3828) from the Mean /  Gain 9.86279 Mean 13.6651 ratio 0.721749
