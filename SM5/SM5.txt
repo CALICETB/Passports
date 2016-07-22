@@ -15,7 +15,7 @@ LED Range:
 5000 - 6800 mV (650 fF) by 50 mV steps
 
 Gain:
-650 fF : ADC/px (channels fitted)
+650 fF : 13.68 +/- 1.15 ADC/px (143 channels fitted)
 
 Holdscan :
 650 fF: 10 (binary)
@@ -27,3 +27,8 @@ Chip: 2 0.25MIP DAC threshold =
 Chip: 3 0.25MIP DAC threshold = 
 
 Additional Information:
+Chip 120 Chn 24 has a deviation of over 3 sigma (3.3828) from the Mean /  Gain 9.86279 Mean 13.6651 ratio 0.721749
+PA needed 450 would give a gain of 12.9805
+missing channel: chip 118 chn 0
+
+LED light yield is not enought for chip 118 chn 0 and chip 120 chn 24.
