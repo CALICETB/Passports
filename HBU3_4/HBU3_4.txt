@@ -15,6 +15,7 @@ LED Range:
 3600 - 5600 mV
 
 Gain:
+24.54 +/- 1.96 ADC/px @ 25 degrees (142 channels fitted)
 
 Holdscan :
 16 (250fF)
@@ -27,3 +28,7 @@ Chip: 2 0.25MIP DAC threshold =
 Chip: 3 0.25MIP DAC threshold = 
 
 Additional Information:
+Chip 207 Chn 12 has a deviation of over 3 sigma (6.1179) from the Mean /  Gain 12.5079 Mean 24.5398 ratio 0.5097
+PA needed 275 would give a gain of 22.7562
+Chip 207 Chn 19 has a deviation of over 3 sigma (4.14494) from the Mean /  Gain 16.3881 Mean 24.5398 ratio 0.667816
+PA needed 400 would give a gain of 23.4194
