@@ -7,16 +7,17 @@ CALIB: 10109-00 8
 POWER: 11070-01 21 (9)
 
 IDAC: 58
-PA: 
+PA: 450 fF
 
 ChipID : 229 230 231 232
 
 LED Range: 
+3600 to 5500 mV
 
 Gain:
 
 Holdscan :
-14 (binary) 
+12 (binary) 
 
 Threshold : assuming LY of 14 px/MIP and Gain of 20 ADC/px
 Chip: 0 0.25MIP DAC threshold = 
