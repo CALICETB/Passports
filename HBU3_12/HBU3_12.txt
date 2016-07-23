@@ -15,6 +15,7 @@ LED Range:
 3600 to 5500 mV
 
 Gain:
+25.93 +/- 1.65 ADC/px @ 25 degrees (144 channels fitted)
 
 Holdscan :
 12 (binary) 
@@ -26,3 +27,4 @@ Chip: 2 0.25MIP DAC threshold =
 Chip: 3 0.25MIP DAC threshold = 
 
 Additional Information:
+Chip 229 Chn 12 has a deviation of over 3 sigma (6.20713) from the Mean /  Gain 15.6658 Mean 25.9278 ratio 0.604207
