@@ -22,10 +22,10 @@ Holdscan :
 14 (425fF)
 
 Threshold : assuming LY of 14 px/MIP and Gain of 20 ADC/px
-Chip: 0 0.25MIP DAC threshold = 
-Chip: 1 0.25MIP DAC threshold = 
-Chip: 2 0.25MIP DAC threshold = 
-Chip: 3 0.25MIP DAC threshold = 
+Chip: 0 0.25MIP DAC threshold = 202.435 +/- 9.00137
+Chip: 1 0.25MIP DAC threshold = 220.753 +/- 16.158
+Chip: 2 0.25MIP DAC threshold = 220.856 +/- 14.8625
+Chip: 3 0.25MIP DAC threshold = 182.149 +/- 20.3005
 
 Additional Information:
 Chip 207 Chn 12 has a deviation of over 3 sigma (6.1179) from the Mean /  Gain 12.5079 Mean 24.5398 ratio 0.5097
