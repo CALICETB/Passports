@@ -21,10 +21,10 @@ Holdscan :
 16 (binary)
 
 Threshold : assuming LY of 14 px/MIP and Gain of 20 ADC/px
-Chip: 0 0.25MIP DAC threshold = 
-Chip: 1 0.25MIP DAC threshold = 
-Chip: 2 0.25MIP DAC threshold = 
-Chip: 3 0.25MIP DAC threshold = 
+Chip: 0 0.25MIP DAC threshold = 196.726 +/- 4.74226
+Chip: 1 0.25MIP DAC threshold = 208.81  +/- 23.6372
+Chip: 2 0.25MIP DAC threshold = 261.019 +/- 38.1275
+Chip: 3 0.25MIP DAC threshold = 169.525 +/- 15.0337
 
 Additional Information:
 Chip 204 Chn 3 has a deviation of over 3 sigma (3.40791) from the Mean /  Gain 20.7824 Mean 25.5972 ratio 0.811899
