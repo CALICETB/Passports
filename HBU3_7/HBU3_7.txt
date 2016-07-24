@@ -7,20 +7,30 @@ CALIB: 10109-00 20
 POWER: 11070-01 23 (13)
 
 IDAC: 58
-PA: 
+PA: 400 fF
 
 ChipID : 209 210 211 212
 
 LED Range: 
+3800 mV - 5500 mV
 
 Gain:
+25.91 +/- 2.03 ADC/px (143 channels fitted)
 
 Holdscan :
+14 (binary)
 
 Threshold : assuming LY of 14 px/MIP and Gain of 20 ADC/px
-Chip: 0 0.25MIP DAC threshold = 
-Chip: 1 0.25MIP DAC threshold = 
-Chip: 2 0.25MIP DAC threshold = 
-Chip: 3 0.25MIP DAC threshold = 
+Chip: 0 0.25MIP DAC threshold = 237.04 +/- 8.44547
+Chip: 1 0.25MIP DAC threshold = 234.128 +/- 15.5194
+Chip: 2 0.25MIP DAC threshold = 230.097 +/- 10.2213
+Chip: 3 0.25MIP DAC threshold = 233.114 +/- 8.38689
 
 Additional Information:
+Chip 211 Chn 6 has a deviation of over 3 sigma (6.02163) from the Mean /  Gain 13.642 Mean 25.909 ratio 0.526536
+PA needed 275 would give a gain of 24.8195
+Chip 211 Chn 34 has a deviation of over 3 sigma (5.40279) from the Mean /  Gain 14.9027 Mean 25.909 ratio 0.575194
+PA needed 325 would give a gain of 24.4428
+missing channel: chip 210 chn 30
+
+Threshold scan: 300, 350, 400
