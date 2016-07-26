@@ -19,6 +19,7 @@ Gain:
 
 Holdscan :
 12 (binary) 
+Hold time changed to 14 (26/07/16)
 
 Threshold : assuming LY of 14 px/MIP and Gain of 25 ADC/px
 Chip: 0 0.25MIP DAC threshold = 197.413 +/- 20.5861
