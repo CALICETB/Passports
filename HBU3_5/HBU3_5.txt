@@ -6,7 +6,7 @@ DIF: 11054-01 8 (17)    (27.07.2016)
 CALIB: 10109-00 16      (27.07.2016)
 POWER: 11070-01 6 (16)  (27.07.2016)
 
-IDAC: 58
+IDAC: 30
 PA: 350 fF
 
 ChipID : 221 222 223 224
@@ -36,3 +36,5 @@ These DAQ interface modules were used for commissioning
 DIF: 11054-00 3 (III)
 CALIB: 10109-00 15
 POWER: 11070-00 3 (IV)
+
+IDAC: 58 (commissioning)
