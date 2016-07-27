@@ -6,7 +6,7 @@ DIF: 11054-00 1 (IV)
 CALIB: 10109-00 14
 POWER: 11070-00 4 (III)
 
-IDAC: 58
+IDAC: 30
 PA: 350 fF (and 250 fF)
 
 ChipID : 225 226 227 228
@@ -43,3 +43,5 @@ PA needed 350 would give a gain of 27.1033
 
 missing channels
 chip 226 chn 20, chip 227 chn 12, chip 228 chn 0
+
+IDAC: 58 (commissioning)
