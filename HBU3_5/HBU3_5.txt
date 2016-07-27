@@ -2,9 +2,9 @@ Sensl
 HV1=31.70V
 HV1_adjust=58
 
-DIF: 11054-00 3 (III)
-CALIB: 10109-00 15
-POWER: 11070-00 3 (IV)
+DIF: 11054-01 8 (17)    (27.07.2016)
+CALIB: 10109-00 16      (27.07.2016)
+POWER: 11070-01 6 (16)  (27.07.2016)
 
 IDAC: 58
 PA: 350 fF
@@ -31,3 +31,8 @@ Additional Information:
 Gain 
 chip 221, 222: ~31 ADC/px
 chip 223, 224: ~26 ADC/px
+
+These DAQ interface modules were used for commissioning 
+DIF: 11054-00 3 (III)
+CALIB: 10109-00 15
+POWER: 11070-00 3 (IV)
