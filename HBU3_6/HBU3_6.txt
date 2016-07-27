@@ -6,7 +6,7 @@ DIF: 11054-01 12 (12)
 CALIB: 10109-00 19
 POWER: 11070-01 19 (11)
 
-IDAC: 58
+IDAC: 30
 PA: 400 fF
 
 ChipID : 201 202 203 204
@@ -30,3 +30,5 @@ Additional Information:
 Chip 204 Chn 3 has a deviation of over 3 sigma (3.40791) from the Mean /  Gain 20.7824 Mean 25.5972 ratio 0.811899
 Chip 204 Chn 15 has a deviation of over 3 sigma (3.1737) from the Mean /  Gain 21.1133 Mean 25.5972 ratio 0.824826
 Chip 204 Chn 16 has a deviation of over 3 sigma (3.18728) from the Mean /  Gain 21.0941 Mean 25.5972 ratio 0.824077
+
+IDAC: 58 (commissioning)
