@@ -8,6 +8,7 @@ POWER: 11070-00 2 (I)
 
 IDAC: 30
 PA: 300 fF
+250 fF (27/07/16)
 
 ChipID : 217 218 219 220
 
@@ -19,7 +20,8 @@ Gain:
 
 Holdscan : 
 24 (binary)
-Hold time changed to 14 (26/07/16)
+Hold time changed to 14 for ET (26/07/16)
+Hold time changed to 24 for AT (27/07/16)
 
 Threshold : assuming LY of 13 px/MIP and Gain of 25 ADC/px
 Chip: 0 0.25MIP DAC threshold = 228.102 +/- 7.67872
