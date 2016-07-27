@@ -19,8 +19,8 @@ Gain:
 
 Holdscan :
 350 and 250 fF: 24 (binary)
-Hold time changed to 14 (26/07/16)
-
+Hold time changed to 14 for ET (26/07/16)
+Hold time of 24 for AT (27/07/16)
 
 Threshold : assuming LY of 14 px/MIP and Gain of 20 ADC/px
 Chip: 0 0.25MIP DAC threshold = 239.058 +/- 28.2749
