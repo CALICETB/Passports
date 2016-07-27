@@ -6,7 +6,7 @@ DIF: 11054-01 7 (10)
 CALIB: 10109-00 8
 POWER: 11070-01 21 (9)
 
-IDAC: 58
+IDAC: 30
 PA: 450 fF
 
 ChipID : 229 230 231 232
@@ -29,3 +29,5 @@ Chip: 3 0.25MIP DAC threshold = 148.58 +/- 19.5529
 
 Additional Information:
 Chip 229 Chn 12 has a deviation of over 3 sigma (6.20713) from the Mean /  Gain 15.6658 Mean 25.9278 ratio 0.604207
+
+IDAC: 58 (commissioning)
