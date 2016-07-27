@@ -23,6 +23,8 @@ Holdscan :
 100 fF: 14 (binary)
 650 fF: 10 (binary)
 
+Holdtime in AT to 20 (27/07/16)
+
 Threshold : assuming LY of 30 px/MIP and Gain of 13 ADC/px
 Chip: 0 0.25MIP DAC threshold = 258.801 +/- 9.90776
 Chip: 1 0.25MIP DAC threshold = 250.892 +/- 27.1405
