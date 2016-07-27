@@ -6,7 +6,7 @@ DIF: 11054-01 17 (13)
 CALIB: 10109-00 17
 POWER: 11070-01 13 (12)
 
-IDAC: 58
+IDAC: 30
 PA: 400 fF
 
 ChipID : 213 214 215 216
@@ -30,3 +30,5 @@ Additional Information:
 Holdscan 16 (binary) at 250 fF
 missing channels: chip 213 chn 23, 27, 35
 These channels have broad pedestal. chip 213 chn 35 has a second peak around 460 ADC. (LED 0V)
+
+IDAC: 58 (commissioning)
