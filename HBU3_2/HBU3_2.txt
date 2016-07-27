@@ -6,7 +6,7 @@ DIF: 11054-00 4 (I)
 CALIB: 10109-00 4
 POWER: 11070-00 2 (I)
 
-IDAC: 58
+IDAC: 30
 PA: 300 fF
 
 ChipID : 217 218 219 220
@@ -30,3 +30,5 @@ Chip: 3 0.25MIP DAC threshold = 200.148 +/- 23.5447
 
 Additional Information:
 The missing channel is chip 217 chn 35.
+
+IDAC: 58 (commissioning)
