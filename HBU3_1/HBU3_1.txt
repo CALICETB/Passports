@@ -7,7 +7,8 @@ CALIB: 10109-00 14
 POWER: 11070-00 4 (III)
 
 IDAC: 30
-PA: 350 fF (and 250 fF)
+PA: 350 fF 
+250 fF (old CERN values 27/07/16)
 
 ChipID : 225 226 227 228
 
