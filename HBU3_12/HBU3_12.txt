@@ -8,6 +8,7 @@ POWER: 11070-01 21 (9)
 
 IDAC: 30
 PA: 450 fF
+300 fF (old CERN values 27/07/16)
 
 ChipID : 229 230 231 232
 
@@ -19,7 +20,8 @@ Gain:
 
 Holdscan :
 12 (binary) 
-Hold time changed to 14 (26/07/16)
+Hold time changed to 14 for ET (26/07/16)
+Hold time changed to 24 for AT (27/07/16)
 
 Threshold : assuming LY of 14 px/MIP and Gain of 25 ADC/px
 Chip: 0 0.25MIP DAC threshold = 197.413 +/- 20.5861
