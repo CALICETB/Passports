@@ -6,7 +6,7 @@ DIF: 11054-01 15 (14)
 CALIB: 10109-00 20
 POWER: 11070-01 23 (13)
 
-IDAC: 58
+IDAC: 30
 PA: 400 fF
 
 ChipID : 209 210 211 212
@@ -34,3 +34,5 @@ PA needed 325 would give a gain of 24.4428
 missing channel: chip 210 chn 30
 
 Threshold scan: 300, 350, 400
+
+IDAC: 58 (commissioning)
