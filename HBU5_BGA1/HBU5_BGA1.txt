@@ -1,0 +1,19 @@
+MPPCs must be sot to 57.1V.
+
+Set in inDAcs to 70.
+
+global bias: HV1=60.51V @ setting 23 (main Labview bias control)
+
+main Labview bias control (HV1):
+
+23: 60.51V (default setting)
+20: 60.39V 
+15: 60.21V 
+10: 60.02V 
+do no set <10
+30: 60.77V 
+40: 60.15V 
+
+assembled channels with MPPCs and tiles:
+Chip 1: Ch3, 5, 9, 11, 15, 21
+Chip 3: Ch14, 20, 24, 30
