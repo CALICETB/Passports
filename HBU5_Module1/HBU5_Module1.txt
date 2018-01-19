@@ -1,0 +1,21 @@
+HV1=60.88
+inDAC=50
+
+Holdtime
+ET 25 ns
+AT 70 ns (TB on Dec. 2017)
+
+Gain
+ 200fF
+ 600fF
+
+threshold scan
+
+Dark count rate
+
+threshold
+240 (TB on Dec. 2017)
+
+
+
+additional infomation
